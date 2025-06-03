@@ -19,7 +19,7 @@
 
 ## Conferences, Meetup talks, and webinar
 
-* *Flink, Kafka and Prometheus: better together to improve efficiency of your observability platform* (Current London 2025 - COMING SOON!)
+* [*Flink, Kafka and Prometheus: better together to improve efficiency of your observability platform*](https://current.confluent.io/post-conference-videos-2025/flink-kafka-and-prometheus-better-together-to-improve-efficiency-of-your-observability-platform-lnd25) (Current London 2025)
 * [*Apache Flink and Prometheus: better together to improve the efficiency of your observability platform at scale*](https://fosdem.org/2025/schedule/event/fosdem-2025-5726-apache-flink-and-prometheus-better-together-to-improve-the-efficiency-of-your-observability-platform-at-scale/) (FOSDEM 2025, Bruxelles)
 * [*Handle millions of observability events with Apache Flink & Prometheus*](https://www.youtube.com/watch?v=trhsC9tcGU4&ab_channel=AWSEvents) (AWS re:Invent 2024, breakout session)
 * [*How PostNL processes billions of IoT events with Amazon Managed Service for Apache Flink* - Lets talk about data show](https://community.aws/content/2h9EaNJEKSv1rbuJXqBCLqI1GWY/how-postnl-processes-billions-of-iot-events-with-amazon-managed-service-for-apache-flink-s02ep21-lets-talk-about-data-show?lang=en) (AWS live Twitch)
