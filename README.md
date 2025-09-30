@@ -2,7 +2,10 @@
 
 ## Blog posts
 
+* [*Deep dive into the Amazon Managed Service for Apache Flink application lifecycle*](https://aws.amazon.com/blogs/big-data/deep-dive-into-the-amazon-managed-service-for-apache-flink-application-lifecycle-part-1/) (AWS big data blog, 2025)
+* [*Achieve full control over your data encryption using customer managed keys in Amazon Managed Service for Apache Flink*](https://aws.amazon.com/blogs/big-data/achieve-full-control-over-your-data-encryption-using-customer-managed-keys-in-amazon-managed-service-for-apache-flink/) (AWS big data blog, 2025)
 * [*Introducing the new Prometheus connector*](https://flink.apache.org/2024/12/05/introducing-the-new-prometheus-connector/) (Apache Flink blog, 2025)
+* [*Process millions of observability events with Apache Flink and write directly to Prometheus*](https://aws.amazon.com/blogs/big-data/process-millions-of-observability-events-with-apache-flink-and-write-directly-to-prometheus/) (AWS big data blog, 2025)
 * [*Introducing the new Amazon Kinesis source connector for Apache Flink*](https://aws.amazon.com/blogs/big-data/introducing-the-new-amazon-kinesis-source-connector-for-apache-flink/) (AWS big data blog, 2024)
 * [*Real-time cost savings for Amazon Managed Service for Apache Flink*](https://aws.amazon.com/blogs/big-data/real-time-cost-savings-for-amazon-managed-service-for-apache-flink/) (AWS big data blog, 2024)
 * [*How PostNL processes billions of IoT events with Amazon Managed Service for Apache Flink*](https://aws.amazon.com/blogs/big-data/how-postnl-processes-billions-of-iot-events-with-amazon-managed-service-for-apache-flink/) (AWS big data blog, 2024)
